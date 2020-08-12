@@ -2,5 +2,5 @@
 simple dynamic website created on covid19 for Dungarpur District Rajasthan
 
 Admin Site
-username - demo
-password - demo123
+username - root,
+password - root123
